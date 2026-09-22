@@ -1,4 +1,4 @@
-package io.rsg.boomi.util;
+package io.sedatgoc.groovysimulator.util;
 
 import java.io.*;
 

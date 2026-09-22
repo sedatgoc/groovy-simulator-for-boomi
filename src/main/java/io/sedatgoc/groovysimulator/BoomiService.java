@@ -1,13 +1,13 @@
-package io.rsg.boomi;
+package io.sedatgoc.groovysimulator;
 
 import com.boomi.execution.ExecutionUtil;
 import groovy.lang.Binding;
 import groovy.lang.GroovyShell;
 import groovy.transform.ThreadInterrupt;
-import io.rsg.boomi.model.BoomiModel;
-import io.rsg.boomi.model.BoomiResponse;
-import io.rsg.boomi.util.BoomiPrintInterceptor;
-import io.rsg.boomi.util.BoomiUtil;
+import io.sedatgoc.groovysimulator.model.BoomiModel;
+import io.sedatgoc.groovysimulator.model.BoomiResponse;
+import io.sedatgoc.groovysimulator.util.BoomiPrintInterceptor;
+import io.sedatgoc.groovysimulator.util.BoomiUtil;
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.POST;
 import jakarta.ws.rs.Path;

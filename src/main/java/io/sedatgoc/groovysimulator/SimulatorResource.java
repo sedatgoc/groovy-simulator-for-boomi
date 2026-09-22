@@ -1,4 +1,4 @@
-package io.rsg.boomi;
+package io.sedatgoc.groovysimulator;
 
 
 import io.quarkus.qute.Location;

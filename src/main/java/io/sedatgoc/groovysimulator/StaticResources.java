@@ -1,4 +1,4 @@
-package io.rsg.boomi;
+package io.sedatgoc.groovysimulator;
 
 import io.quarkus.runtime.StartupEvent;
 import io.vertx.ext.web.Router;

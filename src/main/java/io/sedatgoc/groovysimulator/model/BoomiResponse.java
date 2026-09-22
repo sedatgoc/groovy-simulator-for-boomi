@@ -1,4 +1,4 @@
-package io.rsg.boomi.model;
+package io.sedatgoc.groovysimulator.model;
 
 import java.util.List;
 import java.util.Properties;
