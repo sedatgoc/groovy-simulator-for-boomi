@@ -14,6 +14,14 @@ properties, and log output in a browser.
 > **Do not** put it behind a public URL, and **do not** deploy it to a cloud
 > VM with an attached IAM role.
 
+## Screenshots
+
+![Groovy runtime — validating a JSON payload, reading a dynamic process property, and setting output document properties](docs/screenshots/groovy-simulator-for-boomi-1.png)
+
+![JavaScript runtime — parsing an XML payload with the JDK ScriptEngine](docs/screenshots/groovy-simulator-for-boomi-2.png)
+
+![Groovy runtime — processing a multi-record XML payload and emitting per-document properties](docs/screenshots/groovy-simulator-for-boomi-3.png)
+
 ## What it gives you
 
 - **Web UI** at `http://localhost:8080/` with three side-by-side panels:
